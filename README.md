@@ -120,4 +120,3 @@ const token = Cookies.get('token');
 
 - **Verificação de Algoritmos**: Certifique-se de que o algoritmo de assinatura no seu JWT é seguro.
 
-Se precisar de mais detalhes sobre algum ponto específico, é só avisar!
