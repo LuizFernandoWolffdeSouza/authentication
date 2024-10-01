@@ -1,4 +1,4 @@
-# authentication
+# PESQUISA
 *O que é JWT e como funciona?*
 
 O JSON Web Token (JWT) é um padrão aberto (RFC 7519) que permite a transmissão segura de informações entre partes como um objeto JSON. Essas informações podem ser verificadas e confiáveis, pois são assinadas digitalmente. O JWT é amplamente utilizado para autenticação e autorização em aplicações web, permitindo que os usuários façam login e acessem recursos de forma segura.
